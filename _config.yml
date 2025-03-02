@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Mingyang Du"
+description: "Huazhong University of Science and Technology"
 
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -17,17 +17,17 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
-  email: xiongyunhan@outlook.com
+  zhihu: zhihu.com/people/81-56-58-13-95
+  email: Dumingyang142323@outlook.com
   facebook:
-  github: pianfan
+  github: Mingynag-Du
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text:
 
-url: https://pianfan.github.io
+url: https://Mingyang-Du.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
